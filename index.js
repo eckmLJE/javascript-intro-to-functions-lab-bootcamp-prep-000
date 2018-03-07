@@ -1,4 +1,4 @@
-var grandmaCant = "I can't hear you!"
+var grandmaCant = "I can\'t hear you!"
 var grandmaYes = "YES INDEED!"
 var grandmaLove = "I love you, too."
 
