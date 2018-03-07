@@ -23,3 +23,13 @@ function sayHiToGrandma(string) {
   if (string === string.toLowerCase) {
   return grandmaCant}
 }
+
+function sayHiToGrandma(string) {
+  if (string === string.toUpperCase) {
+  return grandmaYes}
+}
+
+function sayHiToGrandma(string) {
+  if (string === "I love you grandma.") {
+  return grandmaLove}
+}
