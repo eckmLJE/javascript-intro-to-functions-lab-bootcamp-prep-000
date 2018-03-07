@@ -1,7 +1,9 @@
 var grandmaCant = "I can't hear you!"
 var grandmaYes = "YES INDEED!"
 var grandmaLove = "I love you, too."
-
+var uppercase = "HELLO!"
+var lowercase = "hello!"
+var mixedCase = "Hi there!"
 
 function shout(string) {
   return string.toUpperCase()
@@ -20,7 +22,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.toLowerCase() === string) {
+  if (string = lowercase) {
   return grandmaCant}
 }
 
